@@ -498,7 +498,7 @@ body::-webkit-scrollbar-thumb {
   margin-top: 10px;
 }
 
-@media (max-width:609px) {
+@media (max-width:610px) {
   .grid-content-area .column-three {
     overflow-y: unset !important;
   }
